@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f70a312e-2072-48a4-892f-6812362bb0f3": {
+      "ProjectGuid": "f70a312e-2072-48a4-892f-6812362bb0f3",
+      "DisplayName": "BookStoreMyApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "d99a9027-62f7-46a5-a558-d4fc92fd8403": {
+      "ProjectGuid": "d99a9027-62f7-46a5-a558-d4fc92fd8403",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "d5efea9c-b130-44d7-a738-911b8cfc46ad": {
+      "ProjectGuid": "d5efea9c-b130-44d7-a738-911b8cfc46ad",
+      "DisplayName": "Repository2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
